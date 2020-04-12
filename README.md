@@ -1,5 +1,6 @@
 # Algorithms Visualization
-## Using Processing 3.
+
+**Using Processing 3.**
 
 This repository contains a bunch of visualizations of algorithms made using **Processing 3**.
 
