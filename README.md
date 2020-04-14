@@ -2,7 +2,13 @@
 
 **Using Processing 3.**
 
-This repository contains a bunch of visualizations of algorithms made using **Processing 3**.
+## Contents
+
+This repository contains visualizations of the following algorithms made using **Processing 3**.
+  * Binary sort
+  * Selection sort
+  * Insertion sort
+  * Quick sort
 
 ## What's Processing?
 
