@@ -24,7 +24,7 @@ Choose your OS type from the Executable files folder and download them.
 
 ## Screenshots
 
-**Images** **:**
+
 
 ![Bubble sort](/images/bubblesort.png)
 
