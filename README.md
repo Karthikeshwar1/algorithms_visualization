@@ -10,6 +10,8 @@ This repository contains visualizations of the following algorithms made using *
   * Insertion sort
   * Quick sort
 
+**Images : **
+
 ## What's Processing?
 
 [Processing](https://processing.org/) is a graphical library and also an IDE used for electronic arts.
