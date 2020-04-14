@@ -13,9 +13,15 @@ This repository contains visualizations of the following algorithms made using *
 **Images** **:**
 
 ![Bubble sort](/images/bubblesort.png)
-      Bubble sort
+
+
 ![Selection sort](/images/selectionsort.png)
-      Selection sort
+
+
+![Insertion sort](/images/insertionsort.png)
+
+
+![Quick sort](/images/quicksort.png)
 
 ## What's Processing?
 
