@@ -5,12 +5,17 @@
 ## Contents
 
 This repository contains visualizations of the following algorithms made using **Processing 3**.
-  * Binary sort
+  * Bubble sort
   * Selection sort
   * Insertion sort
   * Quick sort
 
 **Images** **:**
+
+![Bubble sort](/images/bubblesort.png)
+      Bubble sort
+![Selection sort](/images/selectionsort.png)
+      Selection sort
 
 ## What's Processing?
 
