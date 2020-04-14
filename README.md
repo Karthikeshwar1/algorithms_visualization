@@ -10,7 +10,7 @@ This repository contains visualizations of the following algorithms made using *
   * Insertion sort
   * Quick sort
 
-**Images : **
+**Images** **:**
 
 ## What's Processing?
 
