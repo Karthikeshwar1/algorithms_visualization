@@ -18,7 +18,7 @@ It's open source and built using Java.
 
 ## How to run it
 
-Choose your OS type from the Executable files folder and download them.
+Go to **Executable** **files** **>** (select an algorithm) **>** (choose OS type) and download **data,** **lib,** **source** and **.exe** files from that folder.
 
 **Note** : If you don't have Java already installed on your computer then please download it from [here](https://www.java.com/en/download/)
 
