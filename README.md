@@ -2,7 +2,7 @@
 
 **Using Processing 3.**
 
-Version : beta 0.1.2
+**Version** : beta 0.1.2
 
 ## Contents
 
