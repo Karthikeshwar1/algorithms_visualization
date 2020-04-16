@@ -2,6 +2,8 @@
 
 **Using Processing 3.**
 
+Version : beta 0.1.2
+
 ## Contents
 
 This repository contains visualizations of the following algorithms made using **Processing 3**.
@@ -10,7 +12,6 @@ This repository contains visualizations of the following algorithms made using *
   * Insertion sort
   * Quick sort
 
-Version : beta 0.1.2
 
 ## What's Processing?
 
