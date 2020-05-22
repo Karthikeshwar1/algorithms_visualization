@@ -40,4 +40,12 @@ Go to **Executable** **files** **>** (select an algorithm) **>** (choose OS type
 ![Quick sort](/images/quicksort.png)
 
 
-README ends here.
+
+## Resources
+
+1. One of the best sorting visualizer :
+http://panthema.net/2013/sound-of-sorting/
+
+2. Tutorials/Demos
+https://youtu.be/67k3I2GxTH8
+https://youtu.be/y9Ecb43qw98
