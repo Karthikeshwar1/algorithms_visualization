@@ -1,4 +1,10 @@
-# Algorithms Visualization
+<h1 align="center">Algorithms Visualization</h1>
+
+<p align="center">
+ 
+ [![Generic badge](https://img.shields.io/badge/Made_with-Processing-yellow.svg)](https://shields.io/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
 
 **Using Processing 3.**
 
